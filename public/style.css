@@ -1,0 +1,74 @@
+.main{
+    padding: 30px;
+    font-family: Arial;
+    box-shadow: 5px  5px 5px 5px #5b4e5b;
+    margin:30px;
+    border-radius: 45px;
+   box-sizing: content-box;
+   background-color:gainsboro;
+}
+
+.main h1{
+    font-size: 36px;
+    text-align: center;
+    font-family: Arial;
+
+}
+.names{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.form-select{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: lighter;
+    width: 70%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 8px;
+    border: none;
+    border-bottom: 2px solid #5b4e5b;
+    border-style:groove;
+    border-radius: 10px;
+    
+}
+.form-select1{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: lighter;
+    width:260%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 4px;
+    border: none;
+    border-bottom: 2px solid #5b4e5b;
+    border-style:groove;
+    border-radius: 10px;
+}
+
+input{
+    font-family:'Times New Roman', Times, serif;
+    font-weight:lighter;
+    width: 100%;
+    height:50px;
+    font-size: 18px;
+    padding: 12px 20px;
+    margin: 8px;
+    border: none;
+    border-bottom: 2px solid #5b4e5b;
+    border-style:groove;
+    border-radius: 10px;
+
+}
+
+input[type=submit]{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    height:50px;
+    width: 40%;
+    background-color: #093f6a;
+    border:none;
+    color:white;
+    margin: 4px 2px;
+    border-radius: 10px;
+    justify-content: center;
+
+}
